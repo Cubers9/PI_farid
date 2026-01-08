@@ -26,18 +26,18 @@ include "../config/koneksi.php";
     <meta name="author" content="">
 
     <!-- Site Icons -->
-    <link rel="shortcut icon" href="../images/logobar99.png" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="../images/logobar99.png">
+    <link rel="shortcut icon" href="../assets/images/logobar99.png" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="../assets/images/logobar99.png">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
     <!-- Site CSS -->
     <link rel="stylesheet" href="../style.css">
     <!-- Responsive CSS -->
-    <link rel="stylesheet" href="../css/responsive.css">
+    <link rel="stylesheet" href="../assets/css/responsive.css">
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="../css/custom.css">
-	<script src="js/modernizr.js"></script> <!-- Modernizr -->
+    <link rel="stylesheet" href="../assets/css/custom.css">
+	<script src="assets/js/modernizr.js"></script> <!-- Modernizr -->
 
 </head>
 <body id="page-top" class="politics_version">
@@ -61,7 +61,7 @@ include "../config/koneksi.php";
     <div class="menu__brand">
         <a href="#">
         <div class="logo" style="background-color: rgb(249, 186, 31 ); padding: 200px; display: inline-block; border-radius: 8px;">
-    <img class="img-fluid" src="../images/logobar991.png" alt="" style="width: 500px; height: auto;" />
+    <img class="img-fluid" src="../assets/images/logobar991.png" alt="" style="width: 500px; height: auto;" />
 </div>
 
 
@@ -87,7 +87,7 @@ include "../config/koneksi.php";
     <div class="container-fluid">
     <a class="navbar-brand js-scroll-trigger" href="">
             <!-- Logo Image with Inline Styles -->
-            <img src="../images/logobar991.png" alt="Logo" style="height: 40px; margin-right: 10px; vertical-align: middle;">
+            <img src="../assets/images/logobar991.png" alt="Logo" style="height: 40px; margin-right: 10px; vertical-align: middle;">
             <!-- Text -->
             <h1 style="display: inline; vertical-align: middle;"><strong>Nawa Lens</strong></h1>
         </a>
@@ -135,7 +135,7 @@ include "../config/koneksi.php";
 				<div class="col-lg-3 col-md-6 col-sm-12">
 					<div class="mb-3 img-logo">
 						<a href="#">
-							 <img src="../images/logofsw.png" alt="">
+							 <img src="../assets/images/logofsw.png" alt="">
 						</a>
 					</div>
 				</div>
@@ -178,21 +178,21 @@ include "../config/koneksi.php";
     <a href="#" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-paper-plane-o" aria-hidden="true"></i></a>
 
     <!-- ALL JS FILES -->
-    <script src="../js/all.js"></script>
+    <script src="../assets/js/all.js"></script>
 	<!-- Camera Slider -->
-	<script src="../js/jquery.mobile.customized.min.js"></script>
-	<script src="../js/jquery.easing.1.3.js"></script> 
-	<script src="../js/parallaxie.js"></script>
-	<script src="../js/jquery.appear.min.js"></script>
-	<script src="../js/skill.bars.jquery.js"></script>
-	<script src="../js/responsiveslides.min.js"></script>
+	<script src="../assets/js/jquery.mobile.customized.min.js"></script>
+	<script src="../assets/js/jquery.easing.1.3.js"></script> 
+	<script src="../assets/js/parallaxie.js"></script>
+	<script src="../assets/js/jquery.appear.min.js"></script>
+	<script src="../assets/js/skill.bars.jquery.js"></script>
+	<script src="../assets/js/responsiveslides.min.js"></script>
     <!-- ALL PLUGINS -->
-	<script src="../js/jquery.fatNav.min.js"></script>
-	<script src="../js/menu-overlay.js"></script>
-    <script src="../js/custom.js"></script>
-	<script src="../js/zepto.min.js"></script>
-	<script src="../js/imagesloaded.pkgd.min.js"></script>
-	<script src="../js/slider.js"></script>
+	<script src="../assets/js/jquery.fatNav.min.js"></script>
+	<script src="../assets/js/menu-overlay.js"></script>
+    <script src="../assets/js/custom.js"></script>
+	<script src="../assets/js/zepto.min.js"></script>
+	<script src="../assets/js/imagesloaded.pkgd.min.js"></script>
+	<script src="../assets/js/slider.js"></script>
 
 </body>
 </html>

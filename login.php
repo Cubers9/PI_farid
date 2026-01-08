@@ -6,7 +6,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="apple-touch-icon" sizes="76x76" href="assets/assets/img/apple-icon.png">
-  <link rel="shortcut icon" href="images/logobar99.png" type="image/x-icon" />
+  <link rel="shortcut icon" href="assets/images/logobar99.png" type="image/x-icon" />
   <title>
     Nawa lens | Masuuk
   </title>
@@ -28,7 +28,7 @@
 <body class="bg-gray-200">
  
   <main class="main-content  mt-0">
-    <div class="page-header align-items-start min-vh-100" style="background-image: url('images/bggas.jpg');">
+    <div class="page-header align-items-start min-vh-100" style="background-image: url('assets/images/bggas.jpg');">
       
       <span class="mask bg-gradient-dark opacity-6"></span>
       <div class="container my-auto">

@@ -16,7 +16,7 @@ include "../config/koneksi.php";
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="apple-touch-icon" sizes="76x76" href="../assets/assets/img/apple-icon.png">
-  <link rel="icon" type="image/png" href="../images/logobar99.png">
+  <link rel="icon" type="image/png" href="../assets/images/logobar99.png">
   <title>
   Nawa Lens | Dashboard Admin
   </title>

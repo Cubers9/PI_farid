@@ -6,7 +6,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="apple-touch-icon" sizes="76x76" href="assets/assets/img/apple-icon.png">
-  <link rel="shortcut icon" href="images/logobar.png" type="image/x-icon" />
+  <link rel="shortcut icon" href="assets/images/logobar.png" type="image/x-icon" />
   <title>
     Nawa Lens | Daftar
   </title>
