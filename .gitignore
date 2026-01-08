@@ -1,0 +1,7 @@
+.DS_Store
+.vscode/
+node_modules/
+config/koneksi.php
+uploads/bukti/
+uploads/produk/
+*.log
